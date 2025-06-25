@@ -14,7 +14,7 @@
 ![사용자데이터정보-removebg-preview](https://github.com/user-attachments/assets/c36cbbc7-20c8-427d-a115-7cfd7ce646ca)
 
 ### 🔹 면접장 & 직무 선택  
-![직무선택-removebg-preview](https://github.com/user-attachments/assets/9ca03faa-7eae-4136-af39-3f273b1a8afc)
+![직무선택_resized](https://github.com/user-attachments/assets/11c945ea-01c0-4629-aca1-2097b19e4037)
 ![면접장선택-removebg-preview](https://github.com/user-attachments/assets/3b3c0376-fc98-4943-9020-f1de92ae0839)
 
 ### 🔹 면접 진행 화면  
