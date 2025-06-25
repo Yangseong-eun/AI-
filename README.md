@@ -11,20 +11,20 @@
 ## 🖼️ 시연 화면
 
 ### 🔹 사용자 정보 입력  
-<img src="images/user_data_info.png" width="400"/>
+![사용자데이터정보-removebg-preview](https://github.com/user-attachments/assets/c36cbbc7-20c8-427d-a115-7cfd7ce646ca)
 
 ### 🔹 면접장 & 직무 선택  
-<img src="images/interview_room_select.png" width="400"/>
-<img src="images/job_select.png" width="400"/>
+![직무선택-removebg-preview](https://github.com/user-attachments/assets/9ca03faa-7eae-4136-af39-3f273b1a8afc)
+![면접장선택-removebg-preview](https://github.com/user-attachments/assets/3b3c0376-fc98-4943-9020-f1de92ae0839)
 
 ### 🔹 면접 진행 화면  
-<img src="images/interview_scene1.png" width="400"/>
-<img src="images/interview_scene2.png" width="400"/>
-<img src="images/interview_scene3.png" width="400"/>
+![면접장1](https://github.com/user-attachments/assets/9d3c417b-ba64-4c9c-8139-561323987454)
+![면접장2](https://github.com/user-attachments/assets/1a40d239-ec9d-4349-af37-499351d6ed92)
+![면접장3](https://github.com/user-attachments/assets/a7859524-16a9-4fe2-bb9a-7664a177e715)
 
 ### 🔹 결과 분석 화면  
-<img src="images/result_summary.png" width="400"/>
-<img src="images/result_detail.png" width="500"/>
+![면접 결과](https://github.com/user-attachments/assets/eda5c2e5-9c24-4663-87a1-6826c684de9f)
+![키오스크_결과-removebg-preview](https://github.com/user-attachments/assets/b36239bd-2b00-44fa-b83e-fb4b6a844227)
 
 ---
 
